@@ -1,0 +1,6 @@
+{
+  "extends": "loopback",
+  "options": {
+    "node": true
+  }
+}
